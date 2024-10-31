@@ -6,4 +6,4 @@ Feature: Login
     Given User is on the home page
     When User clicks "Signup / Login" menu button
 #    * User is on login page
-#  * User c
+#  * User changed
