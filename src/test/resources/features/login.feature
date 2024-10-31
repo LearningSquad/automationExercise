@@ -5,3 +5,4 @@ Feature: Login
   Scenario: Login User with correct email and password
     Given User is on the home page
     When User clicks "Signup / Login" menu button
+#    * User is on login page
